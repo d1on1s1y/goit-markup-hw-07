@@ -16,7 +16,7 @@
   --portfolio-bgc: #e5e5e5;
 }
 
-/*reset styles*/
+/*reset styles
 a {
   text-decoration: none;
 }
@@ -34,8 +34,8 @@ ul {
   margin: 0;
   padding: 0;
 }
-
-/* Общие стили */
+*/
+/* Общие стили 
 body {
   font-family: Roboto, sans-serif;
   font-weight: 400;
@@ -45,6 +45,7 @@ body {
 .no-scroll {
   overflow: hidden;
 }
+*/
 
 .container {
   width: 1200px;
