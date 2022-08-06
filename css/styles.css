@@ -46,7 +46,7 @@ body {
   overflow: hidden;
 }
 */
-
+/*  
 .container {
   width: 1200px;
   margin-left: auto;
@@ -54,13 +54,16 @@ body {
   padding-left: 15px;
   padding-right: 15px;
 }
+*/
+/*
 .header {
   background-color: var(--main-header-color);
 }
-
+*/
 /* Стили отдельных элементов */
 
 /*Стили лого*/
+/*
 .logo {
   font-family: "Raleway";
   font-style: normal;
@@ -76,6 +79,7 @@ body {
 .logo-ending-reverse {
   color: var(--main-header-color);
 }
+*/
 .hero {
   display: flex;
   justify-content: center;
@@ -162,6 +166,7 @@ body {
   letter-spacing: 0.06em;
   margin-bottom: 4px;
 }
+/*
 .nav__link {
   color: var(--header-color);
   font-weight: 500;
@@ -191,6 +196,7 @@ body {
   background-color: var(--animation-color);
   border-radius: 2px;
 }
+*/
 .contact-link {
   display: flex;
   color: var(--text-color);
@@ -235,7 +241,7 @@ body {
 }
 .footer-sec {
   display: flex;
-}
+}/*
 .address-link {
   color: rgba(255, 255, 255, 0.6);
   transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
@@ -244,7 +250,7 @@ body {
 .address-link:hover {
   color: var(--animation-color);
   transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
+}*/
 .address-list {
   font-style: normal;
   font-weight: 400;
@@ -282,27 +288,36 @@ body {
   background-color: var(--animation-color);
   color: var(--main-header-color);
 }
-
+/*
 .header-container {
   display: flex;
   height: 80px;
   align-items: center;
 }
+*/
+/*
 .header-list {
   display: flex;
 }
+*/
+/*
 .nav {
   margin-left: 93px;
 }
+*/
+/*
 .header-address-list {
   margin-left: 305px;
 }
+/*
 .nav__item:nth-child(-n + 2) {
   margin-right: 50px;
 }
+*//*
 .header-address-list-item:nth-child(-n + 1) {
   margin-right: 30px;
 }
+*/
 .benefits-list {
   display: flex;
   justify-content: space-between;
@@ -331,9 +346,11 @@ body {
   display: flex;
   justify-content: space-between;
 }
+/*
 .footer-logo {
   margin-bottom: 20px;
 }
+*/
 .address-item {
   margin-bottom: 9px;
 }
@@ -396,6 +413,7 @@ body {
 }
 
 /* icons*/
+/*
 .address-icon {
   width: 16px;
   height: 12px;
@@ -407,7 +425,7 @@ body {
   height: 16px;
   margin-right: 10px;
   fill: currentColor;
-}
+}/*
 .social-icon {
   fill: #afb1b8;
   width: 20px;
@@ -443,6 +461,7 @@ body {
   background-color: #fff;
   transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
+*/
 .footer-social-header {
   font-weight: 700;
   font-size: 14px;
@@ -453,7 +472,7 @@ body {
   color: var(--main-header-color);
   margin-bottom: 20px;
 }
-.footer-socials {
+.footer-social-media {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -528,6 +547,7 @@ body {
     1px 4px 6px rgba(0, 0, 0, 0.16);
   transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
+/*
 .backdrop {
   display: flex;
   align-items: center;
@@ -545,6 +565,7 @@ body {
   visibility: hidden;
   pointer-events: none;
 }
+*/
 
 .service-card {
   position: relative;
@@ -605,6 +626,7 @@ body {
   position: relative;
   overflow: hidden;
 }
+/*
 .modal {
   position: absolute;
   padding: 40px;
@@ -715,7 +737,8 @@ body {
 }
 .modal-input:focus + .modal-icon {
   fill: #2196f3;
-}
+}*/
+ /*
 .checkbox-label {
   display: flex;
   align-items: center;
@@ -766,9 +789,11 @@ body {
 .icon-check {
   fill: #ffffff;
 }
+/*
 .visually-hidden {
   visibility: hidden;
 }
+
 .btn-checkbox {
   width: 200px;
   height: 50px;
@@ -783,6 +808,7 @@ body {
 .btn-checkbox:hover {
   background-color: var(--animation-color);
 }
+*/
 
 .form-btn-text {
   font-family: "Roboto";
