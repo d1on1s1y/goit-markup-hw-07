@@ -5,6 +5,13 @@
 @import './base/base.scss';
 @import './base/reset.scss';
 //components styles
-@import './components/buttons.scss';
+@import './components/backdrop.scss';
+@import './components/checkbox.scss';
+@import './components/container.scss';
+@import './components/logo.scss';
+@import './components/modal.scss';
+@import './components/social-media.scss';
+
+
 //layout styles
 @import './layout/header.scss';
