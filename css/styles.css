@@ -80,6 +80,7 @@ body {
   color: var(--main-header-color);
 }
 */
+/*
 .hero {
   display: flex;
   justify-content: center;
@@ -133,6 +134,8 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
+*/
+/*
 .h2-type {
   font-weight: 700;
   font-size: 36px;
@@ -141,6 +144,7 @@ body {
   letter-spacing: 0.03em;
   color: var(--header-color);
 }
+/*
 .h3-type {
   font-weight: 500;
   font-size: 16px;
@@ -149,23 +153,8 @@ body {
   text-align: center;
   letter-spacing: 0.03em;
 }
+*/
 
-.h3-type-studio {
-  font-weight: 700;
-  font-size: 14px;
-  line-height: calc(16 / 14);
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: var(--header-color);
-}
-.h3-type-portfolio {
-  font-weight: 700;
-  font-size: 18px;
-  line-height: calc(36 / 18);
-  color: var(--header-color);
-  letter-spacing: 0.06em;
-  margin-bottom: 4px;
-}
 /*
 .nav__link {
   color: var(--header-color);
@@ -196,7 +185,7 @@ body {
   background-color: var(--animation-color);
   border-radius: 2px;
 }
-*/
+*//*
 .contact-link {
   display: flex;
   color: var(--text-color);
@@ -210,12 +199,12 @@ body {
 .contact-link:focus {
   color: var(--animation-color);
   transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
+}/*
 .idea-text {
   font-size: 14px;
   line-height: calc(24 / 14);
   letter-spacing: 0.03em;
-}
+}/*
 .card-text {
   font-size: 16px;
   line-height: calc(19 / 16);
@@ -233,7 +222,8 @@ body {
   box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14),
     0px 2px 1px rgba(0, 0, 0, 0.2);
   border-radius: 0px 0px 4px 4px;
-}
+}*/
+/*
 .footer {
   background-color: var(--hero-and-footer-color);
   padding-top: 60px;
@@ -250,7 +240,7 @@ body {
 .address-link:hover {
   color: var(--animation-color);
   transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}*/
+}*//*
 .address-list {
   font-style: normal;
   font-weight: 400;
@@ -265,8 +255,9 @@ body {
   letter-spacing: 0.03em;
 
   color: #ffffff;
-}
+}*/
 /*кнопки портфолио*/
+/*
 .portfolio-btn {
   color: var(--header-color);
   font-weight: 500;
@@ -317,7 +308,7 @@ body {
 .header-address-list-item:nth-child(-n + 1) {
   margin-right: 30px;
 }
-*/
+*//*
 .benefits-list {
   display: flex;
   justify-content: space-between;
@@ -327,7 +318,8 @@ body {
 }
 .benefits-list-item-header {
   margin-bottom: 10px;
-}
+}*/
+/*
 .service-header {
   margin-bottom: 50px;
 }
@@ -335,25 +327,24 @@ body {
   display: flex;
   justify-content: space-between;
 }
-.card-section {
-  padding-top: 94px;
-  padding-bottom: 94px;
-}
+*/
+/*
 .command-header {
   margin-bottom: 50px;
-}
+}/*
 .card-list {
   display: flex;
   justify-content: space-between;
-}
+}*/
 /*
 .footer-logo {
   margin-bottom: 20px;
 }
-*/
+*//*
 .address-item {
   margin-bottom: 9px;
 }
+*//*
 .category-list {
   margin-bottom: 50px;
   display: flex;
@@ -378,14 +369,16 @@ body {
   border-left: 1px solid #eee;
   border-right: 1px solid #eee;
   border-bottom: 1px solid #eee;
-}
+}/*
 .benefits-section {
   padding-top: 94px;
   padding-bottom: 94px;
-}
+}*/
+/*
 .service-section {
   padding-bottom: 94px;
 }
+*//*
 .all-card-text {
   align-content: space-between;
   padding-top: 30px;
@@ -400,7 +393,7 @@ body {
   line-height: calc(30 / 16);
 
   letter-spacing: 0.03em;
-}
+}/*
 .benefit-icon {
   display: flex;
   width: 270px;
@@ -411,7 +404,7 @@ body {
   align-items: center;
   margin-bottom: 30px;
 }
-
+*/
 /* icons*/
 /*
 .address-icon {
@@ -461,7 +454,7 @@ body {
   background-color: #fff;
   transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-*/
+*//*
 .footer-social-header {
   font-weight: 700;
   font-size: 14px;
@@ -501,7 +494,7 @@ body {
 .social-section {
   margin-left: 70px;
   padding-top: 12px;
-}
+}/*
 .client-list {
   display: flex;
   justify-content: center;
@@ -540,7 +533,7 @@ body {
 }
 .client-header {
   margin-bottom: 50px;
-}
+}*//*
 .portfolio-card:focus,
 .portfolio-card:hover {
   box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06),
@@ -566,7 +559,7 @@ body {
   pointer-events: none;
 }
 */
-
+/*
 .service-card {
   position: relative;
 }
@@ -591,7 +584,7 @@ body {
   bottom: 0;
   z-index: 1;
 }
-
+*//*
 .portfolio-img-overlay {
   position: absolute;
   top: 0;
@@ -809,7 +802,7 @@ body {
   background-color: var(--animation-color);
 }
 */
-
+/*
 .form-btn-text {
   font-family: "Roboto";
   font-style: normal;
@@ -901,3 +894,4 @@ body {
   width: 24px;
   fill: #ffffff;
 }
+*/
