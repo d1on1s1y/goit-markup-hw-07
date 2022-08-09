@@ -165,7 +165,7 @@ ul {
   background-color: var(--animation-color);
 }
 
-.checkbox-btn__text {
+.checkbox__btn-text {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 700;
@@ -416,6 +416,7 @@ ul {
 
 .header {
   background-color: var(--main-header-color);
+  border-bottom: 1px solid #ececec;
 }
 
 .header__container {
